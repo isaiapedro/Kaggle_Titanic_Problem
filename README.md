@@ -1,5 +1,33 @@
-Instructions:
+# Titanic Problem on Kaggle.com!
+### (Predictive Model for Discrete Data)
 
-1. Download/Pull the .ipynb and .csv files to your local repository
-2. Edit as a Jupyter Notebook, you can use Kaggle, Jupyter website or IDEs
-3. Push your code on a new Branch with your name, so you dont forget where it is.
+## Contents
+
+- [Introduction](#introduction)
+- [Data Overview](#data-overview)
+- [Conclusion](#conclusion)
+
+## Introduction
+
+This repository was made to solve the *Titanic Problem* on [Kaggle.com](https://www.kaggle.com/c/titanic).
+
+<br/>
+
+**A brief explanation of the problem:**
+
+> The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+
+<br/>
+
+This work was a collaboration between me and @descarteslover and the objective was to complete the challenge with the best precision possible and take a first hands-on look into ML models and Kaggle competitions.
+
+## Data Overview
+
+
+### Conclusion
+
+Thanks for reading up until here. We had a ton of fun doing this notebook and got a lot of useful insights on data manipulation and the implementation of some models, as Gradiant Boosting, Random Forest, Logistic Regression and Extra Tree.
+
+If you want to see more Kaggle solutions, see the Flower Classification Problem or go to my github page. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/isaiapedro/) or my [Webpage](https://github.com/isaiapedro/Portfolio-Website).
+
+Bye!
