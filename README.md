@@ -23,6 +23,15 @@ This work was a collaboration between me and @descarteslover and the objective w
 
 ## Data Overview
 
+First, we looked at the data that was given by the .csv files “Train” and “Test”.
+
+Index | PassengerId | Survived |	Pclass |	Name |	Sex |	Age | SibSp | Parch | Ticket | Fare |	Cabin | Embarked
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- | ---
+0 | 1 | 0.0 | 3 | Braund, Mr. Owen Harris | male | 22.0 | 1 | 0 | A/5 | 21171 | 7.2500 | NaN | S
+
+<br>
+We noticed that there’s a lot of missing values and some data that could be grouped, specifically the parents and sibling’s columns.
+
 
 ### Conclusion
 
