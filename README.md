@@ -1,4 +1,4 @@
-# Titanic Problem on Kaggle.com!
+# Titanic Problem on Kaggle.com! 🚢
 ### (Predictive Model for Discrete Data)
 
 ## Contents
@@ -168,4 +168,4 @@ Thanks for reading up until here. We had a ton of fun doing this notebook and go
 
 If you want to see more Kaggle solutions, see the Flower Classification Problem or go to my github page. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/isaiapedro/) or my [Webpage](https://github.com/isaiapedro/Portfolio-Website).
 
-Bye!
+Bye! 👋
